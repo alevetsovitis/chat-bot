@@ -1,0 +1,18 @@
+{
+  "short_name": "chat bot app",
+  "name": "chat app",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#85c9c8",
+  "theme_color": "#d4fee6",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}
